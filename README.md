@@ -39,7 +39,7 @@ This project enables **data-driven financial planning** through **interactive vi
    
 2. **Load financial data into SQL/Excel (sample dataset included).**
 3. **Open the Power BI file (.pbix) and connect to your dataset.**
-4 **Analyze financial trends using interactive dashboards.**
+4. **Analyze financial trends using interactive dashboards.**
 
 ## 🤝 Contributions
 💡 Contributions are welcome! Feel free to submit pull requests or open issues for improvements.
