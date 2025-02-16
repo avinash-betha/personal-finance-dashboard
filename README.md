@@ -6,7 +6,8 @@ The **Personal Finance Dashboard** is a **Power BI-based analytics solution** de
 This project enables **data-driven financial planning** through **interactive visualizations, forecasting, and spending analysis**.
 
 ## 🖼 Dashboard Preview  
-![Finance Dashboard](./image.png)  
+![image](https://github.com/user-attachments/assets/efd8d622-e243-4a7e-8d8b-e50d18317113)
+ 
 
 ## 🚀 Key Features  
 ✅ **Income vs. Expense Tracking** – Monitors financial inflows and outflows over time.  
